@@ -11,4 +11,4 @@ Welcome to **Buffet Bhai**,  your premier solution for hassle-free buffet reserv
 
 ## "Reserve Your Seats" - Our Slogan and Purpose
 
-Our slogan, "Prepare Yourself," embodies the app's core purpose: simplifying and securing seat reservations. It emphasizes the convenience and assurance of securing your spot, whether for events, dining, or travel. With this slogan, users immediately understand the app's mission: empowering them to reserve their desired seats effortlessly.
+Our slogan, "Reserve Your Seats", embodies the app's core purpose: simplifying and securing seat reservations. It emphasizes the convenience and assurance of securing your spot, whether for events, dining, or travel. With this slogan, users immediately understand the app's mission: empowering them to reserve their desired seats effortlessly.
