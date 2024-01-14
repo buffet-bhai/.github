@@ -1,6 +1,6 @@
 ![Organization Cover Picture](https://github.com/buffet-bhai/.github/blob/main/profile/cover.png)
 
-Welcome to **Buffet Bhai**,  your premier solution for hassle-free buffet reservations in Bangladesh. Our mission is to empower restaurants to manage their reservations.
+Welcome to **Buffet Bhai**,  your premier solution for hassle-free buffet reservations in Bangladesh. Our mission is to empower buffet restaurants to manage their reservations.
 
 ## Technologies Utilized
 
